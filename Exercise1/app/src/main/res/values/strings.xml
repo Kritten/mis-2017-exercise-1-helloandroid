@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="input_url">Enter a URL</string>
+    <string name="button_url">Connect</string>
+</resources>
